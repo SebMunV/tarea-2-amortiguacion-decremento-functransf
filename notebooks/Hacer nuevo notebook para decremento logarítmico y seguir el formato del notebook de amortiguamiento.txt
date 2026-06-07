@@ -1,0 +1,1 @@
+Hacer nuevo notebook para decremento logarítmico y seguir el formato del notebook de amortiguamiento.txt
